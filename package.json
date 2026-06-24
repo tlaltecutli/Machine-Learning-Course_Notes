@@ -1,0 +1,21 @@
+{
+  "name": "machine-learning-course_notes",
+  "version": "1.0.0",
+  "description": "Notes for the Machine Learning course at UNAM 2025-2026",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlaltecutli/Machine-Learning-Course_Notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tlaltecutli/Machine-Learning-Course_Notes/issues"
+  },
+  "homepage": "https://github.com/tlaltecutli/Machine-Learning-Course_Notes#readme"
+}

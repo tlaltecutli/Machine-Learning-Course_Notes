@@ -1,0 +1,30 @@
+version: 1
+project:
+  title: Machine Learning Course Notes
+  description: Comprehensive notes covering ML foundations and implementation.
+  github: https://github.com/tlaltecutli/Machine-Learning-Course_Notes
+  keywords:
+    - machine-learning
+    - python
+    - jupyter
+  authors:
+    - nameParsed:
+        literal: Your Name
+        given: Your
+        family: Name
+      name: Your Name
+      id: >-
+        contributors-My
+        Drive\GitHub_Projects\Machine-Learning-Course_Notes\myst-generated-uid-0
+  id: fa5143e9-c3a0-4828-9710-c32caf029f58
+  toc:
+    - file: README.md
+    - children:
+        - file: 01_linear_regression.ipynb
+        - file: 02_classification.ipynb
+      title: Supervised Learning
+    - children:
+        - file: 03_deep_learning_intro.ipynb
+      title: Neural Networks
+site:
+  template: book-theme

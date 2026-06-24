@@ -19,6 +19,7 @@ project:
   id: fa5143e9-c3a0-4828-9710-c32caf029f58
   toc:
     - file: README.md
+    - file: contenido.md
     - children:
         - file: 01_linear_regression.ipynb
         - file: 02_classification.ipynb

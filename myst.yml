@@ -9,10 +9,10 @@ project:
     - jupyter
   authors:
     - nameParsed:
-        literal: Your Name
-        given: Your
-        family: Name
-      name: Your Name
+        literal: Zeus Tlaltecutli
+        given: Zeus Tlaltecutli
+        family: Domínguez Vega
+      name: Zeus Tlaltecutli
       id: >-
         contributors-My
         Drive\GitHub_Projects\Machine-Learning-Course_Notes\myst-generated-uid-0

@@ -14,3 +14,9 @@ Este repositorio contiene los archivos de la clase del curso de Aprendizaje Auto
 | **6. Aprendizaje sin supervisión** | 6.1 Agrupamiento basado en distancia<br>6.2 Agrupamiento jerárquico<br>6.3 Agrupamiento probabilista<br>6.4 Métodos de Reducción de la dimensionalidad<br>&nbsp;&nbsp;&nbsp;&nbsp;6.4.1 Componentes Principales<br>&nbsp;&nbsp;&nbsp;&nbsp;6.4.2 Análisis de Factores |
 | **[7. Máquinas de vectores de soporte](03_deep_learning_intro.ipynb)** | 7.1 Clasificadores de márgenes máximos<br>7.2 Márgenes duros y suaves<br>7.3 Problema dual<br>7.4 Núcleos<br>7.5 El truco del núcleo<br>7.6 Descenso del sub-gradiente para máquinas de vectores de soporte lineal |
 | **8. Ensambles de clasificadores** | 8.1 Teoría de ensambles<br>8.2 Estrategias de ensamble: potenciamiento, empaquetado y apilado<br>8.3 Potenciamiento adaptivo<br>8.4 Potenciamiento del gradiente<br>8.5 Bosques aleatorios<br>8.6 Clasificadores por votación |
+
+---
+
+Para ingresar al contenido del curso, haga clic en el siguiente link:
+
+[Curso de Aprendizaje Automático UNAM-2026](https://tlaltecutli.github.io/Machine-Learning-Course_Notes/)

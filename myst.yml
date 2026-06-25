@@ -21,18 +21,18 @@ project:
     - file: README.md
     - file: contenido.md
     - children:
-        - file: 01_Conceptos_Básicos.ipynb
-        - file: 02_Teoría del aprendizaje.ipynb
-        - file: 03_Regresión_Lineal.ipynb
-        - file: 04_Regresión_Logística.ipynb
-        - file: 05_Selección_de_Modelos.ipynb
-        - file: 06_Aprendizaje_sin_Supervisión.ipynb
-        - file: 07_Máquinas_de_Vectores_de_Soporte.ipynb
+        - file: 01_Conceptos_Basicos.ipynb
+        - file: 02_Teoria_del_Aprendizaje.ipynb
+        - file: 03_Regresion_Lineal.ipynb
+        - file: 04_Regresion_Logistica.ipynb
+        - file: 05_Seleccion_de_Modelos.ipynb
+        - file: 06_Aprendizaje_sin_Supervision.ipynb
+        - file: 07_Maquinas_de_Vectores_de_Soporte.ipynb
         - file: 08_Ensambles_de_clasificadores.ipynb
       title: Aprendizaje Automático
     - children:
         - file: 09_Redes_Neuronales.ipynb
-        - file: 10_Deep_Learning.ipynb
+        - file: 10_Apredizaje_Profundo.ipynb
       title: Aprendizaje Profundo
 site:
   template: book-theme
